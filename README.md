@@ -15,4 +15,10 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
    - Attach screenshots or  
    - Add links to your code submissions/projects  
 
-4. Keep pushing your changes every day!  
+4. Keep pushing your changes every day!
+day 1
+selection sorting
+bubble sorting 
+insertion sorting theory
+
+
