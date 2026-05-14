@@ -22,3 +22,9 @@ bubble sorting
 insertion sorting theory
 
 
+day 2
+merge sort only
+today day was not quite good
+from tommorow all backlog would be completed.
+
+
