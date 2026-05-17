@@ -27,4 +27,9 @@ merge sort only
 today day was not quite good
 from tommorow all backlog would be completed.
 
+day 3
+did complete easy section of striver sheet
+12 question
+leant new appraoch and optimal approaches for problems
+
 
