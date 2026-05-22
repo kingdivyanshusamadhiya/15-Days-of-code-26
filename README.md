@@ -32,4 +32,15 @@ did complete easy section of striver sheet
 12 question
 leant new appraoch and optimal approaches for problems
 
+day 4
+did all mid probe=lem of array , and stl algo
+
+
+day 5
+did stl container and revise javascript from 
+brocode channel 
+
+
+
+
 
