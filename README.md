@@ -40,6 +40,10 @@ day 5
 did stl container and revise javascript from 
 brocode channel 
 
+day 6
+did question from algozenith pirated course and videos on stl
+
+
 
 
 
