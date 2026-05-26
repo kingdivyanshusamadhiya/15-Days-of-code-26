@@ -43,6 +43,9 @@ brocode channel
 day 6
 did question from algozenith pirated course and videos on stl
 
+day 7 
+learned different way to use deque priorty queue and prefix sum
+
 
 
 
