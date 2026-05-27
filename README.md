@@ -47,7 +47,33 @@ day 7
 learned different way to use deque priorty queue and prefix sum
 
 
+day 8
+did string question and 
+watched videoes of love bubber
+Remove Outermost Parentheses
+	
+Reverse words in a given string / Palindrome Check
+	
+Largest Odd Number in a String
+	
+Longest Common Prefix
+	
+Isomorphic String
+	
+Rotate String
+	
+Check if two strings are anagram of each other
 
+	
+Sort Characters by Frequency
+
+	
+Maximum Nesting Depth of the Parentheses
+	
+Roman to Integer
+	
+String to Integer (atoi)
+and different approach on prefixc sum and partial sum
 
 
 
