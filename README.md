@@ -75,5 +75,12 @@ Roman to Integer
 String to Integer (atoi)
 and different approach on prefixc sum and partial sum
 
+day 9
+learnt something new about set multiset iterator that theyt are read only
+learnt about comporator and lamda fucntion
+learnt about stack(lifo) and queues are fifo
+leanred sovling balance parethesis and next greater element using stack
+
+
 
 
