@@ -81,6 +81,11 @@ learnt about comporator and lamda fucntion
 learnt about stack(lifo) and queues are fifo
 leanred sovling balance parethesis and next greater element using stack
 
+day 10
+prefix sum questions
+introsort-- inbuild sort funxtion of cpp
+bit manipulation 
+question 
 
 
 
