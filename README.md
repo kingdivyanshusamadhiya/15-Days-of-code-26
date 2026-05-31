@@ -93,5 +93,10 @@ did bit manipulation advance thoery and different approach for problems
 leanred about how the computer store negative integer why 2s compliement is chosen
 and many more;
 
+day 12 
+learning theory of binary search and bit manipulation all question of striver is done and doing more question to build up more intuttion in bit manipulation
+
+
+
 
 
