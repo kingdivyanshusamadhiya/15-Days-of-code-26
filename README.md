@@ -87,5 +87,11 @@ introsort-- inbuild sort funxtion of cpp
 bit manipulation 
 question 
 
+day 11 
+actually i forget to edit on day 11 so in morning i am editing it 
+did bit manipulation advance thoery and different approach for problems 
+leanred about how the computer store negative integer why 2s compliement is chosen
+and many more;
+
 
 
