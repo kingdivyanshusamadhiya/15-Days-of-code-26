@@ -100,5 +100,11 @@ learning theory of binary search and bit manipulation all question of striver is
 day 13 
 still learning binary and doing questions
 
+day 14
+did
+Largest Subarray with Sum 0
+Reverse Pairs
+Maximum Product Subarray in an Array
+
 
 
