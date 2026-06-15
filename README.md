@@ -110,3 +110,17 @@ day 15
 did problem easy bs porblem from a2z striver 
 
 
+
+
+
+
+
+
+PART 2 
+
+day 1
+learned linked list from striver 
+did problem on greedy
+did introductory problem of linked list
+
+
