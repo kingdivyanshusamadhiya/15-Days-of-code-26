@@ -123,4 +123,12 @@ learned linked list from striver
 did problem on greedy
 did introductory problem of linked list
 
+day 2
+did doubly linked list 
+question on
+reversing ll and dll
+from striver sheet 
+and insertion, delection and tranverse problem
+finding the middle node in linked list 
+
 
