@@ -131,4 +131,35 @@ from striver sheet
 and insertion, delection and tranverse problem
 finding the middle node in linked list 
 
+day 3
+learnt more about linked list solved
+
+Detect a loop in LL
+
+
+	
+Find the starting point in LL
+
+	
+Length of loop in LL
+
+	
+Check if LL is palindrome or not
+
+	
+Segregate odd and even nodes in Linked List
+
+	
+Remove Nth node from the back of the LL
+
+	
+Delete the middle node in LL
+
+
+Middle of a LinkedList [TortoiseHare Method] intresting thing to learn
+
+	
+Reverse a LinkedList [Iterative]
+
+Reverse a LL
 
