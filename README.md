@@ -163,3 +163,25 @@ Reverse a LinkedList [Iterative]
 
 Reverse a LL
 
+
+day 4
+	
+Find the intersection point of Y LL
+	
+Add one to a number represented by LL
+
+	
+Add two numbers in Linked List
+	
+Delete all occurrences of a key in DLL
+
+	
+Find Pairs with Given Sum in Doubly Linked List
+
+	
+Remove duplicates from sorted DLL
+
+learned mathematics for cp
+divisor 
+gcd and lcm 
+important propeties on them
