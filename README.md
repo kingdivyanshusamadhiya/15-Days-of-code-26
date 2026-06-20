@@ -185,3 +185,8 @@ learned mathematics for cp
 divisor 
 gcd and lcm 
 important propeties on them
+
+day 5
+dojng revision of html and learning fundamentals from
+https://www.freecodecamp.org/learn/responsive-web-design-v9/
+
