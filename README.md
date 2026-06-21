@@ -190,3 +190,34 @@ day 5
 dojng revision of html and learning fundamentals from
 https://www.freecodecamp.org/learn/responsive-web-design-v9/
 
+day 6 
+did 80% html from https://www.freecodecamp.org/learn/responsive-web-design-v9/
+
+did questions from striver sheet hard ones
+
+	
+Pascal's Triangle I
+
+	
+Majority Element-II
+
+	
+3 Sum
+
+	
+4 Sum
+
+	
+Largest Subarray with Sum 0
+
+Count subarrays with given xor K
+
+	
+Merge Overlapping Subintervals
+
+	
+Merge two sorted arrays without extra space
+
+	
+Find the repeating and missing number
+
