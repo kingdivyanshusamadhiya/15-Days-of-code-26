@@ -221,3 +221,8 @@ Merge two sorted arrays without extra space
 	
 Find the repeating and missing number
 
+day 7 
+completed html and computers from 
+https://www.freecodecamp.org/learn/responsive-web-design-v9/
+
+
