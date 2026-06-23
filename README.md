@@ -225,4 +225,22 @@ day 7
 completed html and computers from 
 https://www.freecodecamp.org/learn/responsive-web-design-v9/
 
+day 8
+started recurssion from a2z sheet 
+name of questions solved
+
+Recursive Implementation of atoi()
+
+	
+Pow(x, n)
+
+	
+Count Good Numbers
+
+	
+Sort a stack using recursion
+
+	
+Reverse a Stack
+
 
