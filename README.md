@@ -243,4 +243,26 @@ Sort a stack using recursion
 	
 Reverse a Stack
 
+day 9
+	
+
+
+	
+Generate Binary Strings Without Consecutive 1s
+
+Generate Parentheses
+
+
+	
+Count all subsequences with sum K
+
+Check if there exists a subsequence with sum K
+
+Combination Sum
+
+Subsets I
+
+	
+Subsets II
+
 
