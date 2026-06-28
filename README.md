@@ -282,3 +282,32 @@ Implement Queue using Arrays
 Implement Stack using Queue
 
 Implement Queue using Stack
+
+day 12	
+Implement stack using Linkedlist
+
+	
+Implement queue using Linkedlist
+
+	
+Balanced Paranthesis
+
+	
+Infix to Postfix Conversion
+
+	
+Prefix to Infix Conversion
+
+	
+Prefix to Postfix Conversion
+
+	
+Postfix to Prefix Conversion
+
+	
+Postfix to Infix Conversion
+
+Infix to Prefix Conversion
+
+Next Greater Element
+
