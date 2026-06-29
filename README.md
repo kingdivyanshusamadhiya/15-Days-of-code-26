@@ -286,6 +286,9 @@ Implement Queue using Stack
 day 12	
 Implement stack using Linkedlist
 
+
+
+
 	
 Implement queue using Linkedlist
 
@@ -311,3 +314,11 @@ Infix to Prefix Conversion
 
 Next Greater Element
 
+
+
+day 13
+next greater element 2
+next smaller element 
+
+number of greater elements tot he right
+sum of subarray minimums
