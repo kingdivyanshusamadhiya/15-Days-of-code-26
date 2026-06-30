@@ -322,3 +322,7 @@ next smaller element
 
 number of greater elements tot he right
 sum of subarray minimums
+
+day 14
+completed responsive web design from freecodecamp;
+did problem like 9 on bitmanipulation and strings by ultimate topic list by youknowwho
