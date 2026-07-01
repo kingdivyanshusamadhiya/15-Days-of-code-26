@@ -326,3 +326,36 @@ sum of subarray minimums
 day 14
 completed responsive web design from freecodecamp;
 did problem like 9 on bitmanipulation and strings by ultimate topic list by youknowwho
+
+day 15
+done problem on bitmasking and bits manipulation
+
+
+Flipping bits
+Swap Bits
+Reverse Bits
+Raising Bacteria
+Bit Strings
+
+New Year's Eve
+Kaosar and XOR
+Kaosar and AND
+Beautiful XOR
+Petr and a Combination Lock
+
+
+
+
+
+Preparing Olympiad
+
+
+
+
+Bars
+Little Elephant and Bits
+Lucky Numbers (easy)
+
+Knapsack
+
+Apple Division
